@@ -1,0 +1,17 @@
+
+img {
+	margin-left: 25%;
+}
+
+hr {
+	text-align: center;
+}
+
+.centerText {
+	text-align: center;
+}
+
+.addPadding, .footer {
+	padding-top: 25px;
+}
+
